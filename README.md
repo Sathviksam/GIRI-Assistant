@@ -1,6 +1,6 @@
 # 🎙️ GIRI - Smart AI Assistant in Python
 
-**SAM** (Smart Assistant Module) is a Python-based voice assistant that responds to natural language commands and performs various tasks like playing music, telling the time, fetching Wikipedia summaries, opening applications, and more.
+**GIRI** (Smart Assistant Module) is a Python-based voice assistant that responds to natural language commands and performs various tasks like playing music, telling the time, fetching Wikipedia summaries, opening applications, and more.
 
 > “Yo! I'm GIRI– your personal voice assistant 💡”
 
